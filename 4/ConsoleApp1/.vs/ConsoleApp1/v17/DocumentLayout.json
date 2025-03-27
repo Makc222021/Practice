@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{311E9DE6-464A-483F-A427-F2EE3F48E459}|ConsoleApp1.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u0440\u0430\u0431\u043E\u0442\u0430 4 \u044D\u0442\u0435\u043B\u044C\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E9DE6-464A-483F-A427-F2EE3F48E459}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B28DC5-0EAF-44E2-B71A-8C8AF439B284}|..\\ConsoleApp5\\ConsoleApp5.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u0440\u0430\u0431\u043E\u0442\u0430 4 \u044D\u0442\u0435\u043B\u044C\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEAF615-F67A-4611-8FCA-0B32F9042221}|..\\ConsoleApp4\\ConsoleApp4.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u0440\u0430\u0431\u043E\u0442\u0430 4 \u044D\u0442\u0435\u043B\u044C\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D02DCA9-9A16-4791-9260-0FA525B6A23E}|..\\ConsoleApp3\\ConsoleApp3.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u0440\u0430\u0431\u043E\u0442\u0430 4 \u044D\u0442\u0435\u043B\u044C\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8C213C-CDC4-4CA5-8D06-15D67229D43A}|..\\ConsoleApp2\\ConsoleApp2.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\\u0440\u0430\u0431\u043E\u0442\u0430 4 \u044D\u0442\u0435\u043B\u044C\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp5\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp5\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:08:51.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp4\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:06:01.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:58:17.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:55:38.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\\u0420\u0430\u0431\u043E\u0442\u0430 4 \u042D\u0442\u0435\u043B\u044C\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:54:16.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
