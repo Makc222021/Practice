@@ -1,0 +1,15 @@
+<!DOCTYPE html>  
+<html lang="ru">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Семантические теги</title>  
+</head>  
+<body>  
+    <h1>Семантические теги</h1>  
+    
+    <p><header>header</header> - определяет верхнюю часть документа или раздела.</p>  
+    <p><article>article</article> - представляет независимый фрагмент контента.</p>  
+    <p><footer>footer</footer> - определяет нижнюю часть документа или раздела.</p>  
+</body>  
+</html>

@@ -1,0 +1,14 @@
+D:\Практика C#\Этель_9\задание4\bin\Debug\net8.0\задание4.exe
+D:\Практика C#\Этель_9\задание4\bin\Debug\net8.0\задание4.deps.json
+D:\Практика C#\Этель_9\задание4\bin\Debug\net8.0\задание4.runtimeconfig.json
+D:\Практика C#\Этель_9\задание4\bin\Debug\net8.0\задание4.dll
+D:\Практика C#\Этель_9\задание4\bin\Debug\net8.0\задание4.pdb
+D:\Практика C#\Этель_9\задание4\obj\Debug\net8.0\задание4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика C#\Этель_9\задание4\obj\Debug\net8.0\задание4.AssemblyInfoInputs.cache
+D:\Практика C#\Этель_9\задание4\obj\Debug\net8.0\задание4.AssemblyInfo.cs
+D:\Практика C#\Этель_9\задание4\obj\Debug\net8.0\задание4.csproj.CoreCompileInputs.cache
+D:\Практика C#\Этель_9\задание4\obj\Debug\net8.0\задание4.dll
+D:\Практика C#\Этель_9\задание4\obj\Debug\net8.0\refint\задание4.dll
+D:\Практика C#\Этель_9\задание4\obj\Debug\net8.0\задание4.pdb
+D:\Практика C#\Этель_9\задание4\obj\Debug\net8.0\задание4.genruntimeconfig.cache
+D:\Практика C#\Этель_9\задание4\obj\Debug\net8.0\ref\задание4.dll

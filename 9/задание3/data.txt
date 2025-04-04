@@ -1,0 +1,7 @@
+Category1;Item1
+Category2;Item2
+Category1;Item3
+Category3;Item4
+Category2;Item5
+Category1;Item6
+Category3;Item7
