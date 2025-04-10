@@ -1,0 +1,14 @@
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.18\obj\Debug\zadanie1.18.csproj.AssemblyReference.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.18\obj\Debug\MainWindow.g.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.18\obj\Debug\App.g.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.18\obj\Debug\zadanie1.18_MarkupCompile.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.18\obj\Debug\zadanie1.18_MarkupCompile.lref
+D:\Практика C#\Этель_18\zadanie1.18\obj\Debug\zadanie1.18.csproj.AssemblyReference.cache
+D:\Практика C#\Этель_18\zadanie1.18\obj\Debug\MainWindow.baml
+D:\Практика C#\Этель_18\zadanie1.18\obj\Debug\MainWindow.g.cs
+D:\Практика C#\Этель_18\zadanie1.18\obj\Debug\App.g.cs
+D:\Практика C#\Этель_18\zadanie1.18\obj\Debug\zadanie1.18_MarkupCompile.cache
+D:\Практика C#\Этель_18\zadanie1.18\obj\Debug\zadanie1.18.g.resources
+D:\Практика C#\Этель_18\zadanie1.18\obj\Debug\zadanie1._18.Properties.Resources.resources
+D:\Практика C#\Этель_18\zadanie1.18\obj\Debug\zadanie1.18.csproj.GenerateResource.cache
+D:\Практика C#\Этель_18\zadanie1.18\obj\Debug\zadanie1.18.csproj.CoreCompileInputs.cache
